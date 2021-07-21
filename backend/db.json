@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Wenderson Júnio",
+      "email": "wendersonjps@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Divanir Moura",
+      "email": "divanir.moura@gmail.com",
+      "id": 2
+    }
+  ]
+}
